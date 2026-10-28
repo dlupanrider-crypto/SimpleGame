@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"午间俱乐部","version":"1.0.0","description":"和同事在局域网里玩小游戏","action":{"default_title":"打开午间俱乐部"},"background":{"service_worker":"extension.js"},"permissions":["storage"]}

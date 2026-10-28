@@ -1,0 +1,17 @@
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const vm=require('node:vm');
+const src=fs.readFileSync('lobby.js','utf8');
+const code=src.slice(src.indexOf('let pendingLobbyConnection=null;'),src.indexOf('function renderLobby()'));
+const nodes={'#lobby-error':{textContent:'正在连接',classList:{add(x){this.value=x}}},'#lobby-complete':{textContent:'完成连接',disabled:false}};
+const ctx=vm.createContext({$:s=>nodes[s],lobby:{members:[]},clearTimeout:()=>{}});
+vm.runInContext(code,ctx);
+vm.runInContext("pendingLobbyConnection={peerId:'target',timer:1}; lobby.members=[{id:'other',name:'其他人',connection:'direct'}];updateLobbyConnection()",ctx);
+assert.equal(nodes['#lobby-error'].textContent,'正在连接','other existing connection must not complete this invitation');
+vm.runInContext("lobby.members.push({id:'target',name:'搭子',connection:'relay'});updateLobbyConnection()",ctx);
+assert.equal(nodes['#lobby-error'].textContent,'正在连接','relay alone does not mean direct connection completed');
+vm.runInContext("lobby.members[1].connection='direct';updateLobbyConnection()",ctx);
+assert.equal(nodes['#lobby-error'].textContent,'连接成功，已加入大厅：搭子');
+assert.equal(nodes['#lobby-complete'].disabled,true);
+assert.equal(vm.runInContext('pendingLobbyConnection',ctx),null);
+console.log('PASS connection status tracks the specific peer and shows success');

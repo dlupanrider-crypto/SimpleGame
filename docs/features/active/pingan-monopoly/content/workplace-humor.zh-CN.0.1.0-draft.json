@@ -1,0 +1,785 @@
+{
+  "schema_version": 1,
+  "id": "workplace-humor-zh-cn",
+  "version": "0.1.0-draft",
+  "status": "draft",
+  "locale": "zh-CN",
+  "description": "网络热梗与职场话术素材；供后续玩法包引用，非完整对局版本。",
+  "items": [
+    {
+      "id": "work_status-001",
+      "category": "work_status",
+      "text": "班味入骨",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-002",
+      "category": "work_status",
+      "text": "带薪精神离职",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-003",
+      "category": "work_status",
+      "text": "空降疲惫",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-004",
+      "category": "work_status",
+      "text": "活人微死",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-005",
+      "category": "work_status",
+      "text": "工位坐禅",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-006",
+      "category": "work_status",
+      "text": "脆皮打工人",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-007",
+      "category": "work_status",
+      "text": "状态微调",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-008",
+      "category": "work_status",
+      "text": "豆包型人格",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-009",
+      "category": "work_status",
+      "text": "背手负鼠",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-010",
+      "category": "work_status",
+      "text": "卡急马",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-011",
+      "category": "work_status",
+      "text": "哭哭马",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-012",
+      "category": "work_status",
+      "text": "夹心打工人",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-013",
+      "category": "work_status",
+      "text": "养龙虾",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_status-014",
+      "category": "work_status",
+      "text": "付费上班",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_quotes-001",
+      "category": "work_quotes",
+      "text": "搬砖暂停，我去趟被窝就回。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_quotes-002",
+      "category": "work_quotes",
+      "text": "卷又卷不动，辞又不敢辞。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_quotes-003",
+      "category": "work_quotes",
+      "text": "别跟我画职业大饼，我的规划是永久下班。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_quotes-004",
+      "category": "work_quotes",
+      "text": "间歇性热血满满，持续性混吃躺平。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_quotes-005",
+      "category": "work_quotes",
+      "text": "上班最大的收获就是——下班了。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_quotes-006",
+      "category": "work_quotes",
+      "text": "我的工资构成：精神损失费、劳动所得费、忍气吞声费、熬夜加班费，以及算了不计较费。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "work_quotes-007",
+      "category": "work_quotes",
+      "text": "上班就像旧时代的婚姻，明明不幸福，还得长相厮守。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "jargon-001",
+      "category": "jargon",
+      "text": "赋能",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "提供资源和支持"
+    },
+    {
+      "id": "jargon-002",
+      "category": "jargon",
+      "text": "闭环",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "完成事项并反馈"
+    },
+    {
+      "id": "jargon-003",
+      "category": "jargon",
+      "text": "颗粒度",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "细节程度"
+    },
+    {
+      "id": "jargon-004",
+      "category": "jargon",
+      "text": "对齐",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "同步信息、统一理解"
+    },
+    {
+      "id": "jargon-005",
+      "category": "jargon",
+      "text": "抓手",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "切入点"
+    },
+    {
+      "id": "jargon-006",
+      "category": "jargon",
+      "text": "沉淀",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "记录可复用的经验"
+    },
+    {
+      "id": "jargon-007",
+      "category": "jargon",
+      "text": "复盘",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "回顾并总结"
+    },
+    {
+      "id": "jargon-008",
+      "category": "jargon",
+      "text": "拉通",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "协调相关人员和流程"
+    },
+    {
+      "id": "jargon-009",
+      "category": "jargon",
+      "text": "底层逻辑",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "核心原理"
+    },
+    {
+      "id": "jargon-010",
+      "category": "jargon",
+      "text": "打法",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "策略和做法"
+    },
+    {
+      "id": "jargon-011",
+      "category": "jargon",
+      "text": "迭代",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "逐步改进"
+    },
+    {
+      "id": "jargon-012",
+      "category": "jargon",
+      "text": "组合拳",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "多种方法一起用"
+    },
+    {
+      "id": "jargon-013",
+      "category": "jargon",
+      "text": "顶层设计",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "整体规划"
+    },
+    {
+      "id": "jargon-014",
+      "category": "jargon",
+      "text": "壁垒 / 护城河",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "难以复制的优势"
+    },
+    {
+      "id": "jargon-015",
+      "category": "jargon",
+      "text": "上桌 / 上不了桌",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true,
+      "plain_language": "是否参与关键决策"
+    },
+    {
+      "id": "pua-001",
+      "category": "pua",
+      "text": "离开这个平台，你什么都不是。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-002",
+      "category": "pua",
+      "text": "你的能力也就这样了，出去根本拿不到现在的薪水。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-003",
+      "category": "pua",
+      "text": "你要反思一下，为什么别人都能完成，就你不行？",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-004",
+      "category": "pua",
+      "text": "我觉得你最近心态出了问题，需要好好调整。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-005",
+      "category": "pua",
+      "text": "你性格太内向了，根本不适合干这行，也就我能容忍你。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-006",
+      "category": "pua",
+      "text": "年轻人不要只盯着钱，要看重成长机会。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-007",
+      "category": "pua",
+      "text": "这个项目做好了，我帮你跟上面申请升职加薪。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-008",
+      "category": "pua",
+      "text": "现在苦一点，等公司上市了，你们都是元老。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-009",
+      "category": "pua",
+      "text": "把公司当家，公司不会亏待家人的。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-010",
+      "category": "pua",
+      "text": "别计较眼前得失，我在你这个年纪时，加班比你还狠。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-011",
+      "category": "pua",
+      "text": "公司现在这么难还给你发工资。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-012",
+      "category": "pua",
+      "text": "为了帮你争取机会，我顶了多大压力。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-013",
+      "category": "pua",
+      "text": "大家都加班，你怎么好意思准点走？",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-014",
+      "category": "pua",
+      "text": "给你这个任务是因为我看重你，别人想干我还不给。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-015",
+      "category": "pua",
+      "text": "你要有大局观，个人利益要服从集体利益。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-016",
+      "category": "pua",
+      "text": "外面经济形势这么差，出去就是失业。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-017",
+      "category": "pua",
+      "text": "你不干，后面排着长队的人等着干。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-018",
+      "category": "pua",
+      "text": "你这点抗压能力，到哪都混不下去。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "pua-019",
+      "category": "pua",
+      "text": "你年龄也不小了，跳槽还有竞争力吗？",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "blame-001",
+      "category": "blame",
+      "text": "这件事交给你，我比较放心。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "blame-002",
+      "category": "blame",
+      "text": "我相信你的能力。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "blame-003",
+      "category": "blame",
+      "text": "你办事我放心。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "blame-004",
+      "category": "blame",
+      "text": "这是对你的考验。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "blame-005",
+      "category": "blame",
+      "text": "这么重要的事，你不知道提醒我？",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "blame-006",
+      "category": "blame",
+      "text": "这个事我觉得……也不是不行。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "blame-007",
+      "category": "blame",
+      "text": "领导是这个意思，咱们照做就行。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "nonsense-001",
+      "category": "nonsense",
+      "text": "上班的时候，人大多是在上班。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "nonsense-002",
+      "category": "nonsense",
+      "text": "任务越多，要做的工作也就越多。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "nonsense-003",
+      "category": "nonsense",
+      "text": "领导说辛苦了，我说不辛苦。至于苦不苦，我说了你也不知道。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "nonsense-004",
+      "category": "nonsense",
+      "text": "每次开完会我都觉得收获满满，仔细一想，满满的全是会议。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "nonsense-005",
+      "category": "nonsense",
+      "text": "领导说的都对，不对的时候请参考上一条。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "nonsense-006",
+      "category": "nonsense",
+      "text": "我的职业规划就是：先有份工作。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "nonsense-007",
+      "category": "nonsense",
+      "text": "关于年终奖，我只能说：有总比没有好。没有的话……那就没有。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "general",
+      "enabled_by_default": true
+    },
+    {
+      "id": "sarcasm-001",
+      "category": "sarcasm",
+      "text": "你挺有想法的啊。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "sarcasm-002",
+      "category": "sarcasm",
+      "text": "我这个人说话直。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "sarcasm-003",
+      "category": "sarcasm",
+      "text": "年轻人要有格局。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "sarcasm-004",
+      "category": "sarcasm",
+      "text": "这个方案再优化下。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "sarcasm-005",
+      "category": "sarcasm",
+      "text": "这事你看着办吧。",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "sarcasm-006",
+      "category": "sarcasm",
+      "text": "你最近是不是谈恋爱了？",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    },
+    {
+      "id": "sarcasm-007",
+      "category": "sarcasm",
+      "text": "你最近怎么样？",
+      "tags": [
+        "用户素材"
+      ],
+      "audience": "optional",
+      "enabled_by_default": false
+    }
+  ]
+}
